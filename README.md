@@ -1,6 +1,6 @@
 # Equipo Chambanet – Repositorio de Evidencias
 
-Este repositorio corresponde al trabajo grupal del curso **[nombre del curso o asignatura]**. Aquí se almacenan todas las evidencias solicitadas durante las distintas fases del proyecto, siguiendo la estructura y nomenclatura indicadas por el profesor.
+Este repositorio corresponde al trabajo grupal del curso **CAPSTONE**. Aquí se almacenan todas las evidencias solicitadas durante las distintas fases del proyecto, siguiendo la estructura y nomenclatura indicadas por el profesor.
 
 ## 🔖 **Estructura del repositorio**
 
